@@ -60,13 +60,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik-0211&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-0211&theme=radical&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hardik-0211&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ---
 
@@ -103,20 +99,3 @@
   </a>
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik-0211&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hardik-0211&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
