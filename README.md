@@ -57,11 +57,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Snake
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-0211&theme=radical&hide_border=false" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 
 ---
