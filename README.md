@@ -62,10 +62,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake-dark.svg?v=4">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake.svg">
+      srcset="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake.svg?v=4">
+    <img src="https://github.com/Hardik-0211/Hardik-0211/blob/output/github-contribution-grid-snake.svg?v=4">
   </picture>
 </p>
 
